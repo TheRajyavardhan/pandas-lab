@@ -1,0 +1,63 @@
+# Python bytecode
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+
+.ipynb_checkpoints/
+
+# Virtual environments
+
+venv/
+env/
+ENV/
+.venv/
+
+# Python environment files
+
+.env
+
+# Distribution / packaging
+
+build/
+dist/
+*.egg-info/
+
+# Logs
+
+*.log
+
+# OS files
+
+.DS_Store
+Thumbs.db
+
+# IDE settings
+
+.vscode/
+.idea/
+
+# Temporary files
+
+*.tmp
+*.swp
+
+# Data outputs (optional)
+
+output/
+results/
+
+# Matplotlib cache
+
+.matplotlib/
+
+# Pytest cache
+
+.pytest_cache/
+
+# Coverage reports
+
+htmlcov/
+.coverage
