@@ -1,4 +1,4 @@
-# 📊 Pandas Learning Repository
+# 📊 Pandas Lab
 
 ## 🚀 Overview
 
